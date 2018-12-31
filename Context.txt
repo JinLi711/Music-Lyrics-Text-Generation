@@ -1,0 +1,32 @@
+==========
+Background
+==========
+
+=========
+Objective
+=========
+
+We'll see.
+Generate poetic music.
+
+
+=======
+Content
+=======
+
+360,000+ lyrics from many artists.
+csv file containing song name, year created, artist, genre, and the song lyrics.
+
+===========
+Assumptions
+===========
+
+==================
+Things to Consider
+==================
+
+================
+Acknowledgements
+================
+
+Thanks to Kaggle User GyanendraMishra for providing this scraped data from MetroLyrics.com
